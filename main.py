@@ -66,6 +66,8 @@ class SpeechRecognition:
     @staticmethod
     def recognize_words(speech_language="pl", print_spoken_words=True):
         recognizer = sr.Recognizer()
+        recognizer.pause_threshold = 0.3
+        recognizer.non_speaking_duration = 0.3
         with sr.Microphone() as source:
             audio = recognizer.listen(source)
             said = ""
