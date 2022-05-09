@@ -7,6 +7,10 @@ Polski asystent głosowy dla aplikacji desktopowej Spotify na Windows 10. Umożl
 - Wyszukiwanie głosowe utworów (angielskich lub polskich)
 
 # Komendy
+Wybudzanie asystenta:
+- "okej spotify"
+
+
 Zatrzymywanie odtwarzacza:
 - "zatrzymaj", "wstrzymaj", "zapauzuj", "pauza", "czekaj"
 
