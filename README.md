@@ -47,3 +47,9 @@ Ustawianie głośności na konkretną wartość:
 - "ustaw głośność na [WARTOŚĆ (od 0 do 100)]" np: "ustaw głośność na 50" - ustawia wartość głośności odtwarzacza na 50%
 
 
+# Wymagane pakiety
+gTTS==2.2.4
+SpeechRecognition==3.8.1
+pystray==0.19.3
+playsound==1.2.2
+Pillow==9.1.0
