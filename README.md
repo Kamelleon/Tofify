@@ -46,6 +46,10 @@ Szukanie polskich utworów:
 Ustawianie głośności na konkretną wartość:
 - "ustaw głośność na [WARTOŚĆ (od 0 do 100)]" np: "ustaw głośność na 50" - ustawia wartość głośności odtwarzacza na 50%
 
+# Jak zacząć
+1. Pobierz aktualne wydanie z GitHub'a
+2. Uruchom "Aktywator Tofify" i przejdź przez wszystkie jego kroki
+3. Uruchom "Tofify"
 
 # Wymagane pakiety
 - gTTS==2.2.4
