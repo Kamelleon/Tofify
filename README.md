@@ -9,8 +9,12 @@ Polski asystent głosowy dla aplikacji desktopowej Spotify na Windows 10. Umożl
 # Komendy
 Zatrzymywanie odtwarzacza:
 - "zatrzymaj", "wstrzymaj", "zapauzuj", "pauza", "czekaj"
+
+
 Wznawianie odtwarzacza:
 - "wznów", "ponów", "włącz muzykę", "znów", "włącz dźwięk", "włącz muzę", "włącz dźwięki"
+
+
 Następny utwór:
 - "następny", "następna", "do przodu"
 Poprzedni utwór:
