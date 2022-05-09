@@ -17,15 +17,29 @@ Wznawianie odtwarzacza:
 
 Następny utwór:
 - "następny", "następna", "do przodu"
+
+
 Poprzedni utwór:
 - "poprzedni", "poprzednia", "do tyłu"
+
+
 Włączanie losowości:
 - "włącz losowość", "włącz losowy", "włącz losowe", "odtwarzaj losowo", "włącz losowanie"
+
+
 Wyłączanie losowości:
 - "wyłącz losowość", "wyłącz losowe", "wyłącz losowanie", "wyłącz odtwarzanie losowe"
+
+
 Szukanie angielskich utworów:
 - "znajdź/poszukaj/wyszukaj angielski/angielskiego/angielską muzykę/utwór"
+
+
 Szukanie polskich utworów:
 - "znajdź/poszukaj/wyszukaj polski/polskiego/polską muzykę/utwór"
+
+
 Ustawianie głośności na konkretną wartość:
 - "ustaw głośność na [WARTOŚĆ (od 0 do 100)]" np: "ustaw głośność na 50" - ustawia wartość głośności odtwarzacza na 50%
+
+
