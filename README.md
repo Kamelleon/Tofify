@@ -48,8 +48,8 @@ Ustawianie głośności na konkretną wartość:
 
 
 # Wymagane pakiety
-gTTS==2.2.4
-SpeechRecognition==3.8.1
-pystray==0.19.3
-playsound==1.2.2
-Pillow==9.1.0
+- gTTS==2.2.4
+- SpeechRecognition==3.8.1
+- pystray==0.19.3
+- playsound==1.2.2
+- Pillow==9.1.0
