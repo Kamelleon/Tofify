@@ -7,8 +7,16 @@ Polski asystent głosowy dla aplikacji desktopowej Spotify na Windows 10. Umożl
 - Wyszukiwanie głosowe utworów (angielskich lub polskich)
 
 # Wygląd aplikacji
-![activator_screen](https://github.com/Kamelleon/Tofify/blob/main/preview_screens/tofify1.png)
+
+- Ekran główny
 ![main_screen](https://github.com/Kamelleon/Tofify/blob/main/preview_screens/tofify2.png)
+
+
+- Aktywator
+![activator_screen](https://github.com/Kamelleon/Tofify/blob/main/preview_screens/tofify1.png)
+
+
+- Aktywator - początek
 ![activator_beginning_screen](https://github.com/Kamelleon/Tofify/blob/main/preview_screens/tofify3.png)
 
 # Komendy
